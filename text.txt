@@ -1,0 +1,7 @@
+<Route exact path= "/business"></Route>
+<Route exact path= "/entertainment"></Route>
+<Route exact path= "/general"></Route>
+<Route exact path= "/health"></Route>
+<Route exact path= "/science"></Route>
+<Route exact path= "/sports"></Route>
+<Route exact path= "/technology"></Route>
